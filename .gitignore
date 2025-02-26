@@ -4,6 +4,8 @@
 /package-lock.json
 __pycache__
 
+*.xlsx
+
 # Logs
 logs
 *.log
